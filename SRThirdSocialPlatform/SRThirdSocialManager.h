@@ -17,8 +17,11 @@
 #define WX_APPKEY      @"wx537feebd640931cc"
 #define WX_SECRET      @"f1e54b2d0da8ea5ac5bcb6a8c7a8cf79"
 
-#define WB_APPKEY      @"891974957"
-#define WB_RedirectURI @"http://www.arhieason.com/"
+//#define WB_APPKEY      @"891974957"
+//#define WB_RedirectURI @"http://www.arhieason.com/"
+
+#define WB_APPKEY      @"1840063191"
+#define WB_RedirectURI @"https://sns.whalecloud.com/sina2/callback"
 
 #define QQ_APPID       @"1104784464"
 #define QQ_APPKEY      @"2ejPhOgTmjIQqkDC"
